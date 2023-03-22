@@ -1,0 +1,17 @@
+github final project repo:
+https://github.com/GideonNeedleman/github-final-project.git
+
+license.md
+https://github.com/GideonNeedleman/github-final-project/blob/main/License.md
+
+readme.md
+https://github.com/GideonNeedleman/github-final-project/blob/main/README.md
+
+code of conduct
+https://github.com/GideonNeedleman/github-final-project/blob/main/CODE_OF_CONDUCT.md
+
+contributing.md
+https://github.com/GideonNeedleman/github-final-project/blob/main/CONTRIBUTING.md
+
+simple-interest.sh
+https://github.com/GideonNeedleman/github-final-project/blob/main/simple-interest.sh
